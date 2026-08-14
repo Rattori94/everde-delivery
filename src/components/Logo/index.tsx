@@ -33,7 +33,7 @@ const Logo = ({ width = 125, cor = cores.verde }: Props) => (
 			fontWeight="900"
 			letterSpacing="-0.4"
 		>
-			everde
+			Everde
 		</text>
 		<g stroke={cor} strokeWidth="2.4" strokeLinecap="round" fill="none">
 			<path d="M105 41V23" />
