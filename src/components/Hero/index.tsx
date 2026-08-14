@@ -1,6 +1,6 @@
 import styled from "styled-components"
 import Logo from "../Logo"
-import textura from "../../assets/textura.svg"
+import textura from "/textura.svg"
 import { breakpoints, cores } from "../../styles"
 
 const HeroBar = styled.div`

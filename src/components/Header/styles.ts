@@ -1,6 +1,6 @@
 import styled from "styled-components"
 import { Link } from "react-router-dom"
-import textura from "../../assets/textura.svg"
+import textura from "/textura.svg"
 import { breakpoints, cores } from "../../styles"
 
 export const HeaderBar = styled.header`
