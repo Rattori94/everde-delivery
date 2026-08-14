@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F5EEE6"/><stop offset="1" stop-color="#EFC08A" stop-opacity="0.55"/></linearGradient></defs>
+<rect width="1200" height="600" fill="url(#g)"/>
+<rect y="372.0" width="1200" height="228.0" fill="#A8412F" opacity="0.14"/>
+<ellipse cx="230" cy="343.2" rx="134.64" ry="124.08" fill="#A8412F" opacity="0.16"/>
+<circle cx="230" cy="330" r="132" fill="#FFFBF5"/>
+<circle cx="230" cy="330" r="105.6" fill="#EFC08A" opacity="0.30"/>
+<path d="M0 0 C 22.83 -20.75 41.5 -8.3 41.5 0 C 41.5 8.3 22.83 20.75 0 0 Z" fill="#EFC08A" opacity="0.92" transform="translate(280.13 331.24) rotate(1.41)"/>
+<circle cx="264.93" cy="369.65" r="19.82" fill="#EFC08A" opacity="0.95"/>
+<circle cx="188.24" cy="380.63" r="21.25" fill="#A8412F" opacity="0.95"/>
+<path d="M0 0 C 21.86 -19.88 39.75 -7.95 39.75 0 C 39.75 7.95 21.86 19.88 0 0 Z" fill="#A8412F" opacity="0.92" transform="translate(177.53 328.98) rotate(181.12)"/>
+<path d="M0 0 C 22.4 -20.36 40.72 -8.14 40.72 0 C 40.72 8.14 22.4 20.36 0 0 Z" fill="#EFC08A" opacity="0.92" transform="translate(200.17 276.23) rotate(240.98)"/>
+<path d="M0 0 C 20.59 -18.72 37.44 -7.49 37.44 0 C 37.44 7.49 20.59 18.72 0 0 Z" fill="#EFC08A" opacity="0.92" transform="translate(254.42 266.91) rotate(291.16)"/>
+<circle cx="230" cy="330" r="26.4" fill="#A8412F" opacity="0.85"/>
+<ellipse cx="600" cy="317.2" rx="175.44" ry="161.68" fill="#A8412F" opacity="0.16"/>
+<circle cx="600" cy="300" r="172" fill="#FFFBF5"/>
+<circle cx="600" cy="300" r="137.6" fill="#EFC08A" opacity="0.30"/>
+<circle cx="682.31" cy="298.42" r="26.65" fill="#E0763F" opacity="0.95"/>
+<circle cx="630.17" cy="358.97" r="22.73" fill="#A8412F" opacity="0.95"/>
+<circle cx="565.49" cy="370.18" r="29.38" fill="#E0763F" opacity="0.95"/>
+<path d="M0 0 C 27.66 -25.15 50.29 -10.06 50.29 0 C 50.29 10.06 27.66 25.15 0 0 Z" fill="#EFC08A" opacity="0.92" transform="translate(535.43 303.06) rotate(177.29)"/>
+<circle cx="557.16" cy="241.57" r="27.95" fill="#EFC08A" opacity="0.95"/>
+<circle cx="634.77" cy="227.96" r="29.88" fill="#EFC08A" opacity="0.95"/>
+<circle cx="600" cy="300" r="34.4" fill="#A8412F" opacity="0.85"/>
+<ellipse cx="975" cy="352.4" rx="126.48" ry="116.56" fill="#A8412F" opacity="0.16"/>
+<circle cx="975" cy="340" r="124" fill="#FFFBF5"/>
+<circle cx="975" cy="340" r="99.2" fill="#EFC08A" opacity="0.30"/>
+<path d="M0 0 C 20.53 -18.66 37.33 -7.47 37.33 0 C 37.33 7.47 20.53 18.66 0 0 Z" fill="#EFC08A" opacity="0.92" transform="translate(1031.71 328.0) rotate(-11.95)"/>
+<circle cx="996.75" cy="380.15" r="20.86" fill="#EFC08A" opacity="0.95"/>
+<path d="M0 0 C 21.38 -19.44 38.87 -7.77 38.87 0 C 38.87 7.77 21.38 19.44 0 0 Z" fill="#A8412F" opacity="0.92" transform="translate(962.59 396.62) rotate(102.36)"/>
+<circle cx="922.0" cy="362.18" r="21.89" fill="#EFC08A" opacity="0.95"/>
+<circle cx="918.37" cy="318.28" r="17.23" fill="#E0763F" opacity="0.95"/>
+<path d="M0 0 C 24.66 -22.42 44.84 -8.97 44.84 0 C 44.84 8.97 24.66 22.42 0 0 Z" fill="#A8412F" opacity="0.92" transform="translate(957.74 301.37) rotate(245.92)"/>
+<path d="M0 0 C 22.5 -20.45 40.91 -8.18 40.91 0 C 40.91 8.18 22.5 20.45 0 0 Z" fill="#E0763F" opacity="0.92" transform="translate(1018.97 295.88) rotate(314.9)"/>
+<circle cx="975" cy="340" r="24.8" fill="#A8412F" opacity="0.85"/>
+<path d="M0 0 C 14.53 -13.21 26.42 -5.28 26.42 0 C 26.42 5.28 14.53 13.21 0 0 Z" fill="#A8412F" opacity="0.21512002805638436" transform="translate(608.04 283.21) rotate(280.23)"/>
+<path d="M0 0 C 19.04 -17.31 34.62 -6.92 34.62 0 C 34.62 6.92 19.04 17.31 0 0 Z" fill="#A8412F" opacity="0.1744936300034449" transform="translate(1177.72 243.26) rotate(53.35)"/>
+<path d="M0 0 C 21.39 -19.45 38.89 -7.78 38.89 0 C 38.89 7.78 21.39 19.45 0 0 Z" fill="#A8412F" opacity="0.1443332541476524" transform="translate(856.03 186.52) rotate(186.08)"/>
+<path d="M0 0 C 19.04 -17.31 34.62 -6.92 34.62 0 C 34.62 6.92 19.04 17.31 0 0 Z" fill="#A8412F" opacity="0.16613002574985075" transform="translate(120.6 37.49) rotate(91.66)"/>
+<path d="M0 0 C 17.26 -15.69 31.38 -6.28 31.38 0 C 31.38 6.28 17.26 15.69 0 0 Z" fill="#A8412F" opacity="0.15138739718405672" transform="translate(1065.25 21.31) rotate(243.32)"/>
+<path d="M0 0 C 19.45 -17.68 35.36 -7.07 35.36 0 C 35.36 7.07 19.45 17.68 0 0 Z" fill="#A8412F" opacity="0.16196269074312294" transform="translate(1158.87 532.7) rotate(66.2)"/>
+<path d="M0 0 C 12.0 -10.91 21.82 -4.36 21.82 0 C 21.82 4.36 12.0 10.91 0 0 Z" fill="#A8412F" opacity="0.22621300702407798" transform="translate(298.55 144.05) rotate(308.19)"/>
+<path d="M0 0 C 17.98 -16.34 32.69 -6.54 32.69 0 C 32.69 6.54 17.98 16.34 0 0 Z" fill="#A8412F" opacity="0.16426436534789848" transform="translate(36.63 570.19) rotate(319.56)"/>
+<path d="M0 0 C 13.22 -12.01 24.03 -4.81 24.03 0 C 24.03 4.81 13.22 12.01 0 0 Z" fill="#A8412F" opacity="0.21805567522375247" transform="translate(970.56 80.4) rotate(192.21)"/>
+<path d="M0 0 C 15.26 -13.87 27.74 -5.55 27.74 0 C 27.74 5.55 15.26 13.87 0 0 Z" fill="#A8412F" opacity="0.18115717788751806" transform="translate(475.65 493.2) rotate(337.99)"/>
+<path d="M0 0 C 13.4 -12.18 24.36 -4.87 24.36 0 C 24.36 4.87 13.4 12.18 0 0 Z" fill="#A8412F" opacity="0.17637358416892115" transform="translate(1013.99 432.38) rotate(15.84)"/>
+<path d="M0 0 C 20.07 -18.25 36.5 -7.3 36.5 0 C 36.5 7.3 20.07 18.25 0 0 Z" fill="#A8412F" opacity="0.24775108361838058" transform="translate(946.88 272.96) rotate(87.32)"/>
+<path d="M0 0 C 11.95 -10.86 21.72 -4.34 21.72 0 C 21.72 4.34 11.95 10.86 0 0 Z" fill="#A8412F" opacity="0.13873335820990146" transform="translate(426.22 123.38) rotate(75.65)"/>
+<path d="M0 0 C 18.72 -17.02 34.04 -6.81 34.04 0 C 34.04 6.81 18.72 17.02 0 0 Z" fill="#A8412F" opacity="0.16830736129522086" transform="translate(200.03 0.83) rotate(306.08)"/>
+<path d="M0 0 C 19.57 -17.79 35.58 -7.12 35.58 0 C 35.58 7.12 19.57 17.79 0 0 Z" fill="#A8412F" opacity="0.25276323138426615" transform="translate(1195.48 562.6) rotate(116.27)"/>
+<path d="M0 0 C 22.15 -20.14 40.27 -8.05 40.27 0 C 40.27 8.05 22.15 20.14 0 0 Z" fill="#A8412F" opacity="0.23100979298547225" transform="translate(307.03 173.08) rotate(169.57)"/>
+</svg>

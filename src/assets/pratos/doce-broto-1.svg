@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+<rect width="600" height="600" fill="#F6EDF3"/>
+<circle cx="123.67" cy="324.48" r="160.7" fill="#EBADB2" opacity="0.18"/>
+<circle cx="66.2" cy="330.96" r="137.97" fill="#EBADB2" opacity="0.18"/>
+<circle cx="486.81" cy="561.02" r="134.94" fill="#EBADB2" opacity="0.18"/>
+<circle cx="300" cy="300" r="218" fill="#FFFDFB"/>
+<circle cx="300" cy="300" r="218" fill="none" stroke="#824F85" stroke-width="3" opacity="0.18"/>
+<circle cx="300" cy="300" r="176" fill="#EBADB2" opacity="0.42"/>
+<path d="M0 0 C 48.86 -44.42 88.84 -17.77 88.84 0 C 88.84 17.77 48.86 44.42 0 0 Z" fill="#EBADB2" opacity="0.95" transform="translate(399.43 287.07) rotate(-7.41)"/>
+<path d="M0 0 C 46.25 -42.04 84.09 -16.82 84.09 0 C 84.09 16.82 46.25 42.04 0 0 Z" fill="#EBADB2" opacity="0.95" transform="translate(371.83 376.37) rotate(46.76)"/>
+<path d="M0 0 C 34.23 -31.12 62.23 -12.45 62.23 0 C 62.23 12.45 34.23 31.12 0 0 Z" fill="#BF84C2" opacity="0.95" transform="translate(306.87 401.29) rotate(86.12)"/>
+<circle cx="240.23" cy="393.82" r="31.92" fill="#EBADB2" opacity="0.95"/>
+<circle cx="240.23" cy="393.82" r="15.96" fill="#FFFDFB" opacity="0.55"/>
+<circle cx="200.89" cy="341.95" r="32.79" fill="#824F85" opacity="0.95"/>
+<circle cx="200.89" cy="341.95" r="16.39" fill="#FFFDFB" opacity="0.55"/>
+<path d="M0 0 C 42.51 -38.65 77.29 -15.46 77.29 0 C 77.29 15.46 42.51 38.65 0 0 Z" fill="#EBADB2" opacity="0.95" transform="translate(211.54 262.87) rotate(202.77)"/>
+<path d="M0 0 C 34.14 -31.04 62.08 -12.42 62.08 0 C 62.08 12.42 34.14 31.04 0 0 Z" fill="#EBADB2" opacity="0.95" transform="translate(250.8 218.27) rotate(238.95)"/>
+<circle cx="318.45" cy="210.29" r="40.68" fill="#BF84C2" opacity="0.95"/>
+<circle cx="318.45" cy="210.29" r="20.34" fill="#FFFDFB" opacity="0.55"/>
+<rect x="-27.58" y="-15.11" width="55.16" height="30.23" rx="15.11" fill="#EBADB2" opacity="0.95" transform="translate(368.02 240.31) rotate(318.73)"/>
+<circle cx="300" cy="300" r="48.02" fill="#824F85" opacity="0.9"/>
+<path d="M0 0 C 22.0 -20.0 40 -8.0 40 0 C 40 8.0 22.0 20.0 0 0 Z" fill="#BF84C2" opacity="0.85" transform="translate(300 300) rotate(-6.28)"/>
+<path d="M0 0 C 22.0 -20.0 40 -8.0 40 0 C 40 8.0 22.0 20.0 0 0 Z" fill="#BF84C2" opacity="0.85" transform="translate(300 300) rotate(76.77)"/>
+<path d="M0 0 C 22.0 -20.0 40 -8.0 40 0 C 40 8.0 22.0 20.0 0 0 Z" fill="#BF84C2" opacity="0.85" transform="translate(300 300) rotate(134.27)"/>
+<path d="M0 0 C 22.0 -20.0 40 -8.0 40 0 C 40 8.0 22.0 20.0 0 0 Z" fill="#BF84C2" opacity="0.85" transform="translate(300 300) rotate(223.41)"/>
+<path d="M0 0 C 22.0 -20.0 40 -8.0 40 0 C 40 8.0 22.0 20.0 0 0 Z" fill="#BF84C2" opacity="0.85" transform="translate(300 300) rotate(293.3)"/>
+<ellipse cx="234.45" cy="118.42" rx="6" ry="9" fill="#824F85" opacity="0.5" transform="rotate(250.15 234.45 118.42)"/>
+<ellipse cx="121.93" cy="252.52" rx="6" ry="9" fill="#824F85" opacity="0.5" transform="rotate(194.93 121.93 252.52)"/>
+<ellipse cx="278.22" cy="144.44" rx="6" ry="9" fill="#824F85" opacity="0.5" transform="rotate(262.03 278.22 144.44)"/>
+<ellipse cx="128.9" cy="307.24" rx="6" ry="9" fill="#824F85" opacity="0.5" transform="rotate(177.58 128.9 307.24)"/>
+<ellipse cx="150.0" cy="188.42" rx="6" ry="9" fill="#824F85" opacity="0.5" transform="rotate(216.64 150.0 188.42)"/>
+<ellipse cx="420.81" cy="442.75" rx="6" ry="9" fill="#824F85" opacity="0.5" transform="rotate(49.76 420.81 442.75)"/>
+<ellipse cx="139.31" cy="329.32" rx="6" ry="9" fill="#824F85" opacity="0.5" transform="rotate(169.66 139.31 329.32)"/>
+<ellipse cx="457.61" cy="325.69" rx="6" ry="9" fill="#824F85" opacity="0.5" transform="rotate(9.26 457.61 325.69)"/>
+<ellipse cx="421.98" cy="458.42" rx="6" ry="9" fill="#824F85" opacity="0.5" transform="rotate(52.4 421.98 458.42)"/>
+<ellipse cx="306.88" cy="450.92" rx="6" ry="9" fill="#824F85" opacity="0.5" transform="rotate(87.39 306.88 450.92)"/>
+<ellipse cx="134.81" cy="283.15" rx="6" ry="9" fill="#824F85" opacity="0.5" transform="rotate(185.83 134.81 283.15)"/>
+</svg>

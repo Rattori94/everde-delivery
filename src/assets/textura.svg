@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <rect width="160" height="160" fill="#E8F3E4"/>
+  <g fill="none" stroke="#2F6B4F" stroke-width="1.6" stroke-linecap="round" opacity="0.16">
+    <!-- broto -->
+    <path d="M20 46 V30"/>
+    <path d="M20 36c0-5 4-9 9-9 0 5-4 9-9 9z"/>
+    <path d="M20 32c0-5-4-9-9-9 0 5 4 9 9 9z"/>
+    <!-- folha -->
+    <path d="M64 22c10 0 18 8 18 18-10 0-18-8-18-18z"/>
+    <path d="M64 22c-1 9 6 16 15 17"/>
+    <!-- tigela -->
+    <path d="M108 34h26a13 13 0 0 1-26 0z"/>
+    <path d="M112 28c3-4 8-4 11 0"/>
+    <!-- gota -->
+    <path d="M28 96c6 6 6 13 0 16-6-3-6-10 0-16z"/>
+    <!-- grao -->
+    <path d="M70 92c8 2 12 9 10 17-8-2-12-9-10-17z"/>
+    <path d="M70 92c6 5 8 12 10 17"/>
+    <!-- garfo -->
+    <path d="M118 88v12c0 3 2 5 5 5s5-2 5-5V88"/>
+    <path d="M123 105v18"/>
+    <!-- folha pequena -->
+    <path d="M44 134c7 0 12 5 12 12-7 0-12-5-12-12z"/>
+    <!-- broto pequeno -->
+    <path d="M96 148v-12"/>
+    <path d="M96 140c0-4 3-7 7-7 0 4-3 7-7 7z"/>
+    <path d="M144 128c6 0 11 5 11 11-6 0-11-5-11-11z"/>
+    <path d="M8 128c-4 4-4 9 0 12 4-3 4-8 0-12z"/>
+  </g>
+</svg>

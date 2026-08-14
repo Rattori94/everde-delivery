@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+<rect width="600" height="600" fill="#F5EEE6"/>
+<circle cx="46.31" cy="215.89" r="216.77" fill="#F1CB88" opacity="0.18"/>
+<circle cx="29.8" cy="71.11" r="157.27" fill="#F1CB88" opacity="0.18"/>
+<circle cx="115.44" cy="5.13" r="162.1" fill="#F1CB88" opacity="0.18"/>
+<circle cx="300" cy="300" r="218" fill="#FFFBF5"/>
+<circle cx="300" cy="300" r="218" fill="none" stroke="#AA4D2D" stroke-width="3" opacity="0.18"/>
+<circle cx="300" cy="300" r="176" fill="#F1CB88" opacity="0.42"/>
+<path d="M0 0 C 37.16 -33.78 67.57 -13.51 67.57 0 C 67.57 13.51 37.16 33.78 0 0 Z" fill="#AA4D2D" opacity="0.95" transform="translate(386.26 294.26) rotate(-3.81)"/>
+<rect x="-26.76" y="-15.62" width="53.52" height="31.24" rx="15.62" fill="#E2873D" opacity="0.95" transform="translate(369.65 366.45) rotate(43.65)"/>
+<circle cx="271.3" cy="383.46" r="42.19" fill="#E2873D" opacity="0.95"/>
+<circle cx="271.3" cy="383.46" r="21.09" fill="#FFFBF5" opacity="0.55"/>
+<path d="M0 0 C 35.92 -32.66 65.31 -13.06 65.31 0 C 65.31 13.06 35.92 32.66 0 0 Z" fill="#AA4D2D" opacity="0.95" transform="translate(233.03 341.03) rotate(148.5)"/>
+<rect x="-26.07" y="-13.72" width="52.15" height="27.44" rx="13.72" fill="#E2873D" opacity="0.95" transform="translate(214.42 269.74) rotate(199.47)"/>
+<circle cx="279.08" cy="213.7" r="45.99" fill="#E2873D" opacity="0.95"/>
+<circle cx="279.08" cy="213.7" r="22.99" fill="#FFFBF5" opacity="0.55"/>
+<path d="M0 0 C 41.67 -37.88 75.76 -15.15 75.76 0 C 75.76 15.15 41.67 37.88 0 0 Z" fill="#E2873D" opacity="0.95" transform="translate(341.38 232.54) rotate(301.53)"/>
+<circle cx="300" cy="300" r="53.12" fill="#AA4D2D" opacity="0.9"/>
+<path d="M0 0 C 22.0 -20.0 40 -8.0 40 0 C 40 8.0 22.0 20.0 0 0 Z" fill="#E2873D" opacity="0.85" transform="translate(300 300) rotate(-9.08)"/>
+<path d="M0 0 C 22.0 -20.0 40 -8.0 40 0 C 40 8.0 22.0 20.0 0 0 Z" fill="#E2873D" opacity="0.85" transform="translate(300 300) rotate(80.09)"/>
+<path d="M0 0 C 22.0 -20.0 40 -8.0 40 0 C 40 8.0 22.0 20.0 0 0 Z" fill="#E2873D" opacity="0.85" transform="translate(300 300) rotate(146.76)"/>
+<path d="M0 0 C 22.0 -20.0 40 -8.0 40 0 C 40 8.0 22.0 20.0 0 0 Z" fill="#E2873D" opacity="0.85" transform="translate(300 300) rotate(216.88)"/>
+<path d="M0 0 C 22.0 -20.0 40 -8.0 40 0 C 40 8.0 22.0 20.0 0 0 Z" fill="#E2873D" opacity="0.85" transform="translate(300 300) rotate(278.48)"/>
+<ellipse cx="400.84" cy="208.73" rx="6" ry="9" fill="#AA4D2D" opacity="0.5" transform="rotate(317.85 400.84 208.73)"/>
+<ellipse cx="221.43" cy="145.32" rx="6" ry="9" fill="#AA4D2D" opacity="0.5" transform="rotate(243.07 221.43 145.32)"/>
+<ellipse cx="203.74" cy="134.8" rx="6" ry="9" fill="#AA4D2D" opacity="0.5" transform="rotate(239.77 203.74 134.8)"/>
+<ellipse cx="159.75" cy="165.1" rx="6" ry="9" fill="#AA4D2D" opacity="0.5" transform="rotate(223.89 159.75 165.1)"/>
+<ellipse cx="243.73" cy="114.29" rx="6" ry="9" fill="#AA4D2D" opacity="0.5" transform="rotate(253.14 243.73 114.29)"/>
+<ellipse cx="158.48" cy="425.41" rx="6" ry="9" fill="#AA4D2D" opacity="0.5" transform="rotate(138.46 158.48 425.41)"/>
+<ellipse cx="382.67" cy="133.87" rx="6" ry="9" fill="#AA4D2D" opacity="0.5" transform="rotate(296.46 382.67 133.87)"/>
+<ellipse cx="414.62" cy="393.6" rx="6" ry="9" fill="#AA4D2D" opacity="0.5" transform="rotate(39.24 414.62 393.6)"/>
+<ellipse cx="492.27" cy="306.44" rx="6" ry="9" fill="#AA4D2D" opacity="0.5" transform="rotate(1.92 492.27 306.44)"/>
+<ellipse cx="215.06" cy="408.2" rx="6" ry="9" fill="#AA4D2D" opacity="0.5" transform="rotate(128.13 215.06 408.2)"/>
+<ellipse cx="355.32" cy="465.65" rx="6" ry="9" fill="#AA4D2D" opacity="0.5" transform="rotate(71.53 355.32 465.65)"/>
+<ellipse cx="385.76" cy="174.9" rx="6" ry="9" fill="#AA4D2D" opacity="0.5" transform="rotate(304.43 385.76 174.9)"/>
+<ellipse cx="425.8" cy="184.07" rx="6" ry="9" fill="#AA4D2D" opacity="0.5" transform="rotate(317.34 425.8 184.07)"/>
+<ellipse cx="162.76" cy="318.93" rx="6" ry="9" fill="#AA4D2D" opacity="0.5" transform="rotate(172.14 162.76 318.93)"/>
+</svg>
