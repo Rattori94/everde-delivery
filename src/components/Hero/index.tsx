@@ -3,7 +3,6 @@ import Logo from "../Logo"
 import textura from "../../assets/textura.svg"
 import { breakpoints, cores } from "../../styles"
 
-/** Figma "Hero": 384px de altura, logo a 64px do topo, chamada 138px abaixo do logo. */
 const HeroBar = styled.div`
 	background-image: url(${textura});
 	background-repeat: repeat;
